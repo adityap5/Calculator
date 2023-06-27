@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&family=Poppins:wght@400;700&family=Roboto+Condensed:ital,wght@1,300&display=swap');
+.text-center{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.mx-auto{
+    margin:auto ;
+}
+
+.button{
+    padding: 20px;
+    margin: 4px 3px;
+    border: 2px solid #111;
+    border-radius:9px ;
+    cursor: pointer;
+    width: 66px;
+    background-color: #89ABE3FF;
+}
+
+.flex{
+display: flex;
+} 
+.flex-col{
+flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.input{
+    padding: 7px 33px;
+    border: 3px solid #111;
+    border-radius: 8px;
+    margin:10px;
+    font-size: 20px;
+}
+body{
+    background-color: #FCF6F5FF;
+}
