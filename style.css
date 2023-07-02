@@ -25,6 +25,7 @@ display: flex;
 flex-direction: column;
 }
 .items-center{
+    padding: 44px 33px;
     align-items: center;
 }
 .input{
@@ -35,5 +36,6 @@ flex-direction: column;
     font-size: 20px;
 }
 body{
-    background-color: #FCF6F5FF;
+    background-image: url("bg.jpg");
+    /* background-color: #FCF6F5FF; */
 }
